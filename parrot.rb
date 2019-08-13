@@ -6,3 +6,4 @@ def parrot(default_word ="Squawk!")
 end
 
 parrot
+parrot()
